@@ -1,6 +1,6 @@
 # Purer
 
-> Pretty one-line ZSH prompt based on [@sindresorhus](https://github.)'s [Pure](https://github.com/sindresorhus/pure)
+> Pretty one-line ZSH prompt based on [@sindresorhus](https://github.)'s [Pure](https://github.com/sindresorhus/pure) and [@DFurnes](https://github.)'s [Purer](https://github.com/DFurnes/purer)
 
 ![purer](https://cloud.githubusercontent.com/assets/583202/25418314/c3a29bfa-2a18-11e7-8a6f-4c0960ccadfc.png)
 
