@@ -140,7 +140,7 @@ prompt_purest_preprompt_render() {
   fi
 
 	local symbol_color="%(?.${PUREST_PROMPT_SYMBOL_COLOR:-magenta}.red)"
-	local path_formatting="${PUREST_PROMPT_PATH_FORMATTING:-$(shrink_path -t)}"
+	local path_formatting="${PUREST_PROMPT_PATH_FORMATTING:-$(shrink_path -l -t)}"
 
 	# show background jobs
 	preprompt+="%(1j.%F{242}%j %f.)"
